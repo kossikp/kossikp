@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Kossi, a results-driven computer scientist with 7+ years of experience as a Senior Software Engineer. Passionate about technology with a deep understanding of software design and development principles to implement cutting-edge solutions. Leverage strong analytical abilities and problem-solving skills to deliver reliable, scalable and maintainable software that meets business needs and exceeds user expectations.
 <!--
 **kossikp/kossikp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
