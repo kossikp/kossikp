@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-I am Kossi, results-driven computer scientist with 7+ years of experience as a DevOps Engineer. Passionate about technology with a deep understanding of software development life cycle and systems administration and engineering principles to implement cutting-edge solutions. Leverage strong analytical abilities and problem-solving skills to deliver reliable, scalable and maintainable solutions that meets business needs and exceeds user expectations.
+I am Kossi, with 10+ years of experience leading software engineering teams across enterprise and SaaS environments, I thrive at the intersection of technology, training, mentorship, leadership, and business impact. I’ve guided teams in delivering secure, scalable platforms  from cloud-native solutions to enterprise fintech systems that drive measurable ROI and customer trust. My leadership style blends hands-on technical expertise with mentoring and strategic alignment, ensuring that engineering outcomes match business goals.          
+
+At FastDox, I led cross-functional teams in building cloud-based, enterprise-level applications on AWS, leveraging Laravel and agile development to achieve seamless performance and reliability. Across roles, I’ve consistently delivered improvements in scalability, system uptime, and ROI while fostering collaboration and innovation within my teams.      
+
+What sets me apart is my ability to bridge technical depth with business vision. I bring strong expertise in AI training, mentorship, leadership, Software Development Life Cycle (SDLC), cloud architecture, and microservices, paired with a proven record of leading diverse teams to success. Passionate about FinTech and financial innovation, I thrive in environments where technology transforms complex challenges into simple, secure, and impactful solutions for businesses and users alike.       
+
+I’m always open to connecting with fintech leaders, technology executives, and recruiters to explore opportunities where I can lead teams, architect secure systems, and drive innovation in financial technology.
 <!--
 **kossikp/kossikp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
