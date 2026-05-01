@@ -4,7 +4,7 @@ I am Kossi, with 10+ years of experience leading software engineering teams acro
 
 At FastDox, I led cross-functional teams in building cloud-based, enterprise-level applications on AWS, leveraging Laravel and agile development to achieve seamless performance and reliability. Across roles, I’ve consistently delivered improvements in scalability, system uptime, and ROI while fostering collaboration and innovation within my teams.      
 
-What sets me apart is my ability to bridge technical depth with business vision. I bring strong expertise in AI training, mentorship, leadership, Software Development Life Cycle (SDLC), cloud architecture, and microservices, paired with a proven record of leading diverse teams to success. Passionate about FinTech and financial innovation, I thrive in environments where technology transforms complex challenges into simple, secure, and impactful solutions for businesses and users alike.       
+What sets me apart is my ability to bridge technical depth with business vision. I bring strong expertise in AI training, mentorship, leadership, Software Development Life Cycle (SDLC), cloud architecture, and microservices. Passionate about FinTech and financial innovation, I thrive in environments where technology transforms complex challenges into simple, secure, and impactful solutions for businesses and users alike.       
 
 I’m always open to connecting with fintech leaders, technology executives, and recruiters to explore opportunities where I can lead teams, architect secure systems, and drive innovation in financial technology.
 <!--
